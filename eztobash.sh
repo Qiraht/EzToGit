@@ -1,3 +1,4 @@
+echo -n "Easy To Git with Bash"
 echo -n "Masukkan Nama :"
 read name
 git config --global user.name "$name"
